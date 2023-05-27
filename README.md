@@ -1,4 +1,4 @@
-# Novalauncher-Repair-Tool
+# Era-Repair-Tool
 
 
 ### ☕ Usage  
@@ -7,9 +7,9 @@
     >> Download the file
     ```
 - #### 🖥️ Starting
-      1 - go in cmd and type Nova-Launcher-repair 
+      1 - go in cmd and type Erarepairtool
       2 - Wait 1 minute until the nova tool ist finishd
-      3 - restart your pc and then the nova launcher will work!
+      3 - restart your pc and then the Era launcher will work!
 
 
 ### 🏆 Futures 
